@@ -7,7 +7,6 @@ import {
   Modal,
   Button,
   StyleSheet,
-  TextInput,
 } from "react-native";
 import { Card, Icon, Rating, Input } from "react-native-elements";
 import { connect } from "react-redux";
